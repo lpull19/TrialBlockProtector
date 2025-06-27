@@ -1,0 +1,6 @@
+name: TrialBlockProtector
+version: 1.0
+main: org.fstpdev.trialprotection.TrialBlockProtector
+api-version: 1.21
+author: Lewis Pull
+description: Prevents players from breaking Trial Spawners and Vaults unless allowed by Lands.
